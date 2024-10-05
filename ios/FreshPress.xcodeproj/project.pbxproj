@@ -14,6 +14,18 @@
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		7699B88040F8A987B510C191 /* libPods-FreshPress-FreshPressTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-FreshPress-FreshPressTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		7CBFED22582147C5885F35F2 /* Wittgenstein-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 50DE77D00D8D4401AF42A715 /* Wittgenstein-Black.ttf */; };
+		304A21C59698442CA718A960 /* Wittgenstein-BlackItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 72037A27165A45848D26035F /* Wittgenstein-BlackItalic.ttf */; };
+		141247A3A8AF4FD4B55C4ACA /* Wittgenstein-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AA3AD05C7C804FFDAB0ED694 /* Wittgenstein-Bold.ttf */; };
+		88A56AAF9A6645F89498040C /* Wittgenstein-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6FCD0380AA30408DA350299E /* Wittgenstein-BoldItalic.ttf */; };
+		B41856B854E440E29EC6DE0A /* Wittgenstein-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B0075E33264D468EB92861BD /* Wittgenstein-ExtraBold.ttf */; };
+		2D7222660F9847C5BB2DB880 /* Wittgenstein-ExtraBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 74E7E47176574B289AA360C2 /* Wittgenstein-ExtraBoldItalic.ttf */; };
+		DCED78B3AF71471CAA2E94C8 /* Wittgenstein-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6CC916B3F39C444AA2AC7C4A /* Wittgenstein-Italic.ttf */; };
+		207DA00F358E477F861287EB /* Wittgenstein-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E410F04FBDB8417AB762817F /* Wittgenstein-Medium.ttf */; };
+		C8DFFF18CFAD4C668EFEA829 /* Wittgenstein-MediumItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6AEF5C11E03E4D9BBE1129F9 /* Wittgenstein-MediumItalic.ttf */; };
+		1001CBA435324E4DB7A9F46C /* Wittgenstein-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 574FAD65071D441694093A78 /* Wittgenstein-Regular.ttf */; };
+		0E5494D990BD4A949899AB9E /* Wittgenstein-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 62C4E7CD473E4B58BF19B00A /* Wittgenstein-SemiBold.ttf */; };
+		0E1F3D68EE4C4D33B8C292DC /* Wittgenstein-SemiBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 838B87198ED8481782E14141 /* Wittgenstein-SemiBoldItalic.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +56,18 @@
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = FreshPress/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-FreshPress-FreshPressTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FreshPress-FreshPressTests.release.xcconfig"; path = "Target Support Files/Pods-FreshPress-FreshPressTests/Pods-FreshPress-FreshPressTests.release.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		50DE77D00D8D4401AF42A715 /* Wittgenstein-Black.ttf */ = {isa = PBXFileReference; name = "Wittgenstein-Black.ttf"; path = "../assets/fonts/Wittgenstein-Black.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		72037A27165A45848D26035F /* Wittgenstein-BlackItalic.ttf */ = {isa = PBXFileReference; name = "Wittgenstein-BlackItalic.ttf"; path = "../assets/fonts/Wittgenstein-BlackItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		AA3AD05C7C804FFDAB0ED694 /* Wittgenstein-Bold.ttf */ = {isa = PBXFileReference; name = "Wittgenstein-Bold.ttf"; path = "../assets/fonts/Wittgenstein-Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		6FCD0380AA30408DA350299E /* Wittgenstein-BoldItalic.ttf */ = {isa = PBXFileReference; name = "Wittgenstein-BoldItalic.ttf"; path = "../assets/fonts/Wittgenstein-BoldItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		B0075E33264D468EB92861BD /* Wittgenstein-ExtraBold.ttf */ = {isa = PBXFileReference; name = "Wittgenstein-ExtraBold.ttf"; path = "../assets/fonts/Wittgenstein-ExtraBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		74E7E47176574B289AA360C2 /* Wittgenstein-ExtraBoldItalic.ttf */ = {isa = PBXFileReference; name = "Wittgenstein-ExtraBoldItalic.ttf"; path = "../assets/fonts/Wittgenstein-ExtraBoldItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		6CC916B3F39C444AA2AC7C4A /* Wittgenstein-Italic.ttf */ = {isa = PBXFileReference; name = "Wittgenstein-Italic.ttf"; path = "../assets/fonts/Wittgenstein-Italic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		E410F04FBDB8417AB762817F /* Wittgenstein-Medium.ttf */ = {isa = PBXFileReference; name = "Wittgenstein-Medium.ttf"; path = "../assets/fonts/Wittgenstein-Medium.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		6AEF5C11E03E4D9BBE1129F9 /* Wittgenstein-MediumItalic.ttf */ = {isa = PBXFileReference; name = "Wittgenstein-MediumItalic.ttf"; path = "../assets/fonts/Wittgenstein-MediumItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		574FAD65071D441694093A78 /* Wittgenstein-Regular.ttf */ = {isa = PBXFileReference; name = "Wittgenstein-Regular.ttf"; path = "../assets/fonts/Wittgenstein-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		62C4E7CD473E4B58BF19B00A /* Wittgenstein-SemiBold.ttf */ = {isa = PBXFileReference; name = "Wittgenstein-SemiBold.ttf"; path = "../assets/fonts/Wittgenstein-SemiBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		838B87198ED8481782E14141 /* Wittgenstein-SemiBoldItalic.ttf */ = {isa = PBXFileReference; name = "Wittgenstein-SemiBoldItalic.ttf"; path = "../assets/fonts/Wittgenstein-SemiBoldItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -122,6 +146,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				13D27AFE60D34156BBABA120 /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -147,6 +172,26 @@
 			);
 			path = Pods;
 			sourceTree = "<group>";
+		};
+		13D27AFE60D34156BBABA120 /* Resources */ = {
+			isa = "PBXGroup";
+			children = (
+				50DE77D00D8D4401AF42A715 /* Wittgenstein-Black.ttf */,
+				72037A27165A45848D26035F /* Wittgenstein-BlackItalic.ttf */,
+				AA3AD05C7C804FFDAB0ED694 /* Wittgenstein-Bold.ttf */,
+				6FCD0380AA30408DA350299E /* Wittgenstein-BoldItalic.ttf */,
+				B0075E33264D468EB92861BD /* Wittgenstein-ExtraBold.ttf */,
+				74E7E47176574B289AA360C2 /* Wittgenstein-ExtraBoldItalic.ttf */,
+				6CC916B3F39C444AA2AC7C4A /* Wittgenstein-Italic.ttf */,
+				E410F04FBDB8417AB762817F /* Wittgenstein-Medium.ttf */,
+				6AEF5C11E03E4D9BBE1129F9 /* Wittgenstein-MediumItalic.ttf */,
+				574FAD65071D441694093A78 /* Wittgenstein-Regular.ttf */,
+				62C4E7CD473E4B58BF19B00A /* Wittgenstein-SemiBold.ttf */,
+				838B87198ED8481782E14141 /* Wittgenstein-SemiBoldItalic.ttf */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+			path = "";
 		};
 /* End PBXGroup section */
 
@@ -243,6 +288,18 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				7CBFED22582147C5885F35F2 /* Wittgenstein-Black.ttf in Resources */,
+				304A21C59698442CA718A960 /* Wittgenstein-BlackItalic.ttf in Resources */,
+				141247A3A8AF4FD4B55C4ACA /* Wittgenstein-Bold.ttf in Resources */,
+				88A56AAF9A6645F89498040C /* Wittgenstein-BoldItalic.ttf in Resources */,
+				B41856B854E440E29EC6DE0A /* Wittgenstein-ExtraBold.ttf in Resources */,
+				2D7222660F9847C5BB2DB880 /* Wittgenstein-ExtraBoldItalic.ttf in Resources */,
+				DCED78B3AF71471CAA2E94C8 /* Wittgenstein-Italic.ttf in Resources */,
+				207DA00F358E477F861287EB /* Wittgenstein-Medium.ttf in Resources */,
+				C8DFFF18CFAD4C668EFEA829 /* Wittgenstein-MediumItalic.ttf in Resources */,
+				1001CBA435324E4DB7A9F46C /* Wittgenstein-Regular.ttf in Resources */,
+				0E5494D990BD4A949899AB9E /* Wittgenstein-SemiBold.ttf in Resources */,
+				0E1F3D68EE4C4D33B8C292DC /* Wittgenstein-SemiBoldItalic.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

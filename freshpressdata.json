@@ -1,0 +1,812 @@
+[{
+  "_id": {
+    "$oid": "665c52f84a8e6126d29d8529"
+  },
+  "normalQuantity": 6,
+  "otherQuantity": 0,
+  "otherType": 1,
+  "date": {
+    "day": 2,
+    "month": 6,
+    "year": 2024
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665f3159e1a23cd2ae415e2d"
+  },
+  "normalQuantity": 12,
+  "otherQuantity": 0,
+  "otherType": 1,
+  "date": {
+    "day": 4,
+    "month": 6,
+    "year": 2024
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66615b6576935c073f92b57c"
+  },
+  "normalQuantity": 10,
+  "otherQuantity": 0,
+  "otherType": 1,
+  "date": {
+    "day": 5,
+    "month": 6,
+    "year": 2024
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6663ad397688a73e3600ea5b"
+  },
+  "normalQuantity": 4,
+  "otherQuantity": 0,
+  "otherType": 1,
+  "date": {
+    "day": 7,
+    "month": 6,
+    "year": 2024
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666575bdefd3176be3486047"
+  },
+  "normalQuantity": 10,
+  "otherQuantity": 0,
+  "otherType": 1,
+  "date": {
+    "day": 9,
+    "month": 6,
+    "year": 2024
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6665859437d31afb148b0c96"
+  },
+  "normalQuantity": 8,
+  "otherQuantity": 0,
+  "otherType": 1,
+  "date": {
+    "day": 1,
+    "month": 5,
+    "year": 2024
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666585a637d31afb148b0c98"
+  },
+  "normalQuantity": 8,
+  "otherQuantity": 0,
+  "otherType": 1,
+  "date": {
+    "day": 2,
+    "month": 5,
+    "year": 2024
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666585b837d31afb148b0c9a"
+  },
+  "normalQuantity": 10,
+  "otherQuantity": 0,
+  "otherType": 1,
+  "date": {
+    "day": 5,
+    "month": 5,
+    "year": 2024
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666585ca37d31afb148b0c9c"
+  },
+  "normalQuantity": 15,
+  "otherQuantity": 0,
+  "otherType": 1,
+  "date": {
+    "day": 6,
+    "month": 5,
+    "year": 2024
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666585da37d31afb148b0c9e"
+  },
+  "normalQuantity": 6,
+  "otherQuantity": 0,
+  "otherType": 1,
+  "date": {
+    "day": 7,
+    "month": 5,
+    "year": 2024
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666585eb37d31afb148b0ca0"
+  },
+  "normalQuantity": 7,
+  "otherQuantity": 0,
+  "otherType": 1,
+  "date": {
+    "day": 8,
+    "month": 5,
+    "year": 2024
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6665860437d31afb148b0ca2"
+  },
+  "normalQuantity": 5,
+  "otherQuantity": 0,
+  "otherType": 1,
+  "date": {
+    "day": 12,
+    "month": 5,
+    "year": 2024
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6665861337d31afb148b0ca4"
+  },
+  "normalQuantity": 23,
+  "otherQuantity": 0,
+  "otherType": 1,
+  "date": {
+    "day": 13,
+    "month": 5,
+    "year": 2024
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6665862a37d31afb148b0ca6"
+  },
+  "normalQuantity": 9,
+  "otherQuantity": 0,
+  "otherType": 1,
+  "date": {
+    "day": 14,
+    "month": 5,
+    "year": 2024
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6665863b37d31afb148b0ca8"
+  },
+  "normalQuantity": 6,
+  "otherQuantity": 0,
+  "otherType": 1,
+  "date": {
+    "day": 16,
+    "month": 5,
+    "year": 2024
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6665865037d31afb148b0caa"
+  },
+  "normalQuantity": 6,
+  "otherQuantity": 0,
+  "otherType": 1,
+  "date": {
+    "day": 20,
+    "month": 5,
+    "year": 2024
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6665866137d31afb148b0cac"
+  },
+  "normalQuantity": 16,
+  "otherQuantity": 0,
+  "otherType": 1,
+  "date": {
+    "day": 21,
+    "month": 5,
+    "year": 2024
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6665867437d31afb148b0cae"
+  },
+  "normalQuantity": 4,
+  "otherQuantity": 0,
+  "otherType": 1,
+  "date": {
+    "day": 23,
+    "month": 5,
+    "year": 2024
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6665868237d31afb148b0cb0"
+  },
+  "normalQuantity": 6,
+  "otherQuantity": 0,
+  "otherType": 1,
+  "date": {
+    "day": 26,
+    "month": 5,
+    "year": 2024
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6665869337d31afb148b0cb2"
+  },
+  "normalQuantity": 17,
+  "otherQuantity": 0,
+  "otherType": 1,
+  "date": {
+    "day": 27,
+    "month": 5,
+    "year": 2024
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666586a137d31afb148b0cb4"
+  },
+  "normalQuantity": 4,
+  "otherQuantity": 0,
+  "otherType": 1,
+  "date": {
+    "day": 29,
+    "month": 5,
+    "year": 2024
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666586ae37d31afb148b0cb6"
+  },
+  "normalQuantity": 12,
+  "otherQuantity": 0,
+  "otherType": 1,
+  "date": {
+    "day": 30,
+    "month": 5,
+    "year": 2024
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666ba2b7cb5cf1df6b943443"
+  },
+  "normalQuantity": 14,
+  "otherQuantity": 0,
+  "otherType": 1,
+  "date": {
+    "day": 13,
+    "month": 6,
+    "year": 2024
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666d52ee443a11d68c22ae61"
+  },
+  "normalQuantity": 6,
+  "otherQuantity": 0,
+  "otherType": 1,
+  "date": {
+    "day": 15,
+    "month": 6,
+    "year": 2024
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66738eb4f61243d3b0f25dc8"
+  },
+  "normalQuantity": 9,
+  "otherQuantity": 0,
+  "otherType": 1,
+  "date": {
+    "day": 19,
+    "month": 6,
+    "year": 2024
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6676392cf051c74620c04cd4"
+  },
+  "normalQuantity": 13,
+  "otherQuantity": 0,
+  "otherType": 1,
+  "date": {
+    "day": 21,
+    "month": 6,
+    "year": 2024
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6677f3a529fd1b7b8ff3ac98"
+  },
+  "normalQuantity": 10,
+  "otherQuantity": 0,
+  "otherType": 1,
+  "date": {
+    "day": 23,
+    "month": 6,
+    "year": 2024
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667a94b16e0b0d956c2bcbd5"
+  },
+  "normalQuantity": 16,
+  "otherQuantity": 0,
+  "otherType": 1,
+  "date": {
+    "day": 25,
+    "month": 6,
+    "year": 2024
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667e5cb1fb698811ee2f9a25"
+  },
+  "normalQuantity": 8,
+  "otherQuantity": 0,
+  "otherType": 1,
+  "date": {
+    "day": 27,
+    "month": 6,
+    "year": 2024
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668140be0aea2c867235d200"
+  },
+  "normalQuantity": 10,
+  "otherQuantity": 0,
+  "otherType": 1,
+  "date": {
+    "day": 30,
+    "month": 6,
+    "year": 2024
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6683bf1dde52f80631700282"
+  },
+  "normalQuantity": 18,
+  "otherQuantity": 0,
+  "otherType": 1,
+  "date": {
+    "day": 2,
+    "month": 7,
+    "year": 2024
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6687546b58cc1dcfcd291b00"
+  },
+  "normalQuantity": 14,
+  "otherQuantity": 0,
+  "otherType": 1,
+  "date": {
+    "day": 5,
+    "month": 7,
+    "year": 2024
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6689262c17a2043cddab4480"
+  },
+  "normalQuantity": 5,
+  "otherQuantity": 0,
+  "otherType": 1,
+  "date": {
+    "day": 6,
+    "month": 7,
+    "year": 2024
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668de4c8c205ad77f3efca41"
+  },
+  "normalQuantity": 15,
+  "otherQuantity": 0,
+  "otherType": 1,
+  "date": {
+    "day": 9,
+    "month": 7,
+    "year": 2024
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668fd083c29f32c538656332"
+  },
+  "normalQuantity": 11,
+  "otherQuantity": 0,
+  "otherType": 1,
+  "date": {
+    "day": 11,
+    "month": 7,
+    "year": 2024
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6695cd1e10960cffd98b9751"
+  },
+  "normalQuantity": 16,
+  "otherQuantity": 0,
+  "otherType": 1,
+  "date": {
+    "day": 15,
+    "month": 7,
+    "year": 2024
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669761cc6d1e66b00b0d0ce0"
+  },
+  "normalQuantity": 18,
+  "otherQuantity": 0,
+  "otherType": 1,
+  "date": {
+    "day": 16,
+    "month": 7,
+    "year": 2024
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669b8a10f9aa87c1441b4719"
+  },
+  "normalQuantity": 8,
+  "otherQuantity": 0,
+  "otherType": 1,
+  "date": {
+    "day": 20,
+    "month": 7,
+    "year": 2024
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f7106baa7675a8404f9bc"
+  },
+  "normalQuantity": 16,
+  "otherQuantity": 0,
+  "otherType": 1,
+  "date": {
+    "day": 23,
+    "month": 7,
+    "year": 2024
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a2f447eaefc96dea09258b"
+  },
+  "normalQuantity": 21,
+  "otherQuantity": 0,
+  "otherType": 1,
+  "date": {
+    "day": 25,
+    "month": 7,
+    "year": 2024
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a787726268435dc6b240d3"
+  },
+  "normalQuantity": 8,
+  "otherQuantity": 0,
+  "otherType": 1,
+  "date": {
+    "day": 29,
+    "month": 7,
+    "year": 2024
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a9fdf35064cb42712baeda"
+  },
+  "normalQuantity": 12,
+  "otherQuantity": 0,
+  "otherType": 1,
+  "date": {
+    "day": 31,
+    "month": 7,
+    "year": 2024
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66abbaf46db592e6738dc2a5"
+  },
+  "normalQuantity": 20,
+  "otherQuantity": 0,
+  "otherType": 1,
+  "date": {
+    "day": 1,
+    "month": 8,
+    "year": 2024
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b09a38cfaa264080f8673b"
+  },
+  "normalQuantity": 10,
+  "otherQuantity": 0,
+  "otherType": 1,
+  "date": {
+    "day": 5,
+    "month": 8,
+    "year": 2024
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b41898d5ad5871ff2dcae0"
+  },
+  "normalQuantity": 17,
+  "otherQuantity": 0,
+  "otherType": 1,
+  "date": {
+    "day": 7,
+    "month": 8,
+    "year": 2024
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b73691cf63175839524b3b"
+  },
+  "normalQuantity": 10,
+  "otherQuantity": 0,
+  "otherType": 1,
+  "date": {
+    "day": 10,
+    "month": 8,
+    "year": 2024
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66bb23a8dc4aa38bfbda78dc"
+  },
+  "normalQuantity": 15,
+  "otherQuantity": 0,
+  "otherType": 1,
+  "date": {
+    "day": 13,
+    "month": 8,
+    "year": 2024
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c013097efa9b40b8c79a57"
+  },
+  "normalQuantity": 10,
+  "otherQuantity": 0,
+  "otherType": 1,
+  "date": {
+    "day": 16,
+    "month": 8,
+    "year": 2024
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c5507a1839c53091f3c5db"
+  },
+  "normalQuantity": 14,
+  "otherQuantity": 0,
+  "otherType": 1,
+  "date": {
+    "day": 20,
+    "month": 8,
+    "year": 2024
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66caef44218ca14138ce8160"
+  },
+  "normalQuantity": 14,
+  "otherQuantity": 0,
+  "otherType": 1,
+  "date": {
+    "day": 25,
+    "month": 8,
+    "year": 2024
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66cfd0511d403c111d82f0e7"
+  },
+  "normalQuantity": 14,
+  "otherQuantity": 0,
+  "otherType": 1,
+  "date": {
+    "day": 28,
+    "month": 8,
+    "year": 2024
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d28e670286a51799176862"
+  },
+  "normalQuantity": 12,
+  "otherQuantity": 0,
+  "otherType": 1,
+  "date": {
+    "day": 30,
+    "month": 8,
+    "year": 2024
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d520c92a0f1b20a83bc516"
+  },
+  "normalQuantity": 12,
+  "otherQuantity": 0,
+  "otherType": 1,
+  "date": {
+    "day": 2,
+    "month": 9,
+    "year": 2024
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d9160167faa13b86c9aecd"
+  },
+  "normalQuantity": 16,
+  "otherQuantity": 0,
+  "otherType": 1,
+  "date": {
+    "day": 4,
+    "month": 9,
+    "year": 2024
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66dc3081adb22187681c5609"
+  },
+  "normalQuantity": 13,
+  "otherQuantity": 0,
+  "otherType": 1,
+  "date": {
+    "day": 7,
+    "month": 9,
+    "year": 2024
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e022ab075f95227e470e91"
+  },
+  "normalQuantity": 20,
+  "otherQuantity": 0,
+  "otherType": 1,
+  "date": {
+    "day": 9,
+    "month": 9,
+    "year": 2024
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e2432c47a098cc8ac2f1cf"
+  },
+  "normalQuantity": 12,
+  "otherQuantity": 0,
+  "otherType": 1,
+  "date": {
+    "day": 11,
+    "month": 9,
+    "year": 2024
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e5145acea40838491ba766"
+  },
+  "normalQuantity": 10,
+  "otherQuantity": 0,
+  "otherType": 1,
+  "date": {
+    "day": 13,
+    "month": 9,
+    "year": 2024
+  },
+  "__v": 0
+}]

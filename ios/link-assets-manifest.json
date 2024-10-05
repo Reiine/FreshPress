@@ -1,0 +1,53 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Wittgenstein-Black.ttf",
+      "sha1": "860058ffe5c876fa0277276e1ddfef2e696b0eea"
+    },
+    {
+      "path": "assets/fonts/Wittgenstein-BlackItalic.ttf",
+      "sha1": "e8dc63ac9cf8f9e02d6c740dfe8c9f7b86fb4088"
+    },
+    {
+      "path": "assets/fonts/Wittgenstein-Bold.ttf",
+      "sha1": "b45e75bb6f56d8338e4c4ad332479c1cf854b815"
+    },
+    {
+      "path": "assets/fonts/Wittgenstein-BoldItalic.ttf",
+      "sha1": "7a4c8db98da8b2d1619c275b4f9ec67841ceaf11"
+    },
+    {
+      "path": "assets/fonts/Wittgenstein-ExtraBold.ttf",
+      "sha1": "38ead6d6b1f2d26157d44b7f3e1884565633944a"
+    },
+    {
+      "path": "assets/fonts/Wittgenstein-ExtraBoldItalic.ttf",
+      "sha1": "fd1a7399a9082635aea8568cea6a1a52925d3c91"
+    },
+    {
+      "path": "assets/fonts/Wittgenstein-Italic.ttf",
+      "sha1": "fb45457c18620fe2e84164241135957da5652479"
+    },
+    {
+      "path": "assets/fonts/Wittgenstein-Medium.ttf",
+      "sha1": "f16e785e2f1179b6800e7a1eb9ef4fcad747883d"
+    },
+    {
+      "path": "assets/fonts/Wittgenstein-MediumItalic.ttf",
+      "sha1": "5a24800f2e50d6697e6a965b3ba5b3df23845a75"
+    },
+    {
+      "path": "assets/fonts/Wittgenstein-Regular.ttf",
+      "sha1": "1c43b95de509783eb885539b4f12bb3b41166606"
+    },
+    {
+      "path": "assets/fonts/Wittgenstein-SemiBold.ttf",
+      "sha1": "0d83c0ddea09ec1b4e2cde71e5bfac3f29211302"
+    },
+    {
+      "path": "assets/fonts/Wittgenstein-SemiBoldItalic.ttf",
+      "sha1": "0b73c61845968fa233895cd1e9eb19916ba5408f"
+    }
+  ]
+}
